@@ -1,4 +1,4 @@
-# Hi there, I'm Atharva Shirawale! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCA5A5,50:B91C1C,100:450A0A&animation=fadeIn&height=150&section=header&text=Atharva%20Shirawale&fontSize=70&fontColor=FFFFFF&fontFamily=Rajdhani" />
 
 🚀 **MCA Student | Python Full-Stack Developer**
 
@@ -9,7 +9,7 @@ I am a passionate software developer currently pursuing my **Master of Computer 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=atharvashirawale05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=atharvashirawale05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Here are some ideas to get you started:
 
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <table border="0">
     <tr>
       <td>
-   <img src="https://github-readme-stats.shion.dev/api?username=atharvashirawale05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)%3Cbr/%3E"alt="Git"/>
+   <img src="https://github-readme-stats.shion.dev/api?username=atharvashirawale05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)%3Cbr/%3E"alt="Git"/>
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=atharvashirawale05&theme=dark&hide_border=false" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=atharvashirawale05&theme=shadow_red&hide_border=false" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -36,4 +36,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+"Simple is better than complex." — The Zen of Python    <br>                                               
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fatharvashirawale05&label=Page+Guests&icon=emoji-smile-upside-down-fill&color=%23FF0000&message=&style=for-the-badge&tz=UTC">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCA5A5,50:B91C1C,100:450A0A&animation=fadeIn&height=90&width=300%&section=footer&fontSize=70&fontColor=FFFFFF&reversal=true" />
