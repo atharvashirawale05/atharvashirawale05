@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCA5A5,50:B91C1C,100:450A0A&animation=fadeIn&height=150&section=header&text=Atharva%20Shirawale&fontSize=70&fontColor=FFFFFF&fontFamily=Rajdhani" />
 
-🚀 **MCA Student | Python Full-Stack Developer**
+🚀 **MCA Student | Python Full-Stack Developer**_________________________________________________<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fatharvashirawale05&label=Page+Guests&icon=emoji-smile-upside-down-fill&color=%23FF0000&message=&style=for-the-badge&tz=UTC">
 
 I am a passionate software developer currently pursuing my **Master of Computer Applications (MCA)**. With a solid foundation from my **B.Sc. in Computer Science (Completed in 2026)**, I specialize in building robust, scalable web applications using the Python ecosystem.
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br/>
 
 "Simple is better than complex." — The Zen of Python    <br>                                               
-<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fatharvashirawale05&label=Page+Guests&icon=emoji-smile-upside-down-fill&color=%23FF0000&message=&style=for-the-badge&tz=UTC">
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCA5A5,50:B91C1C,100:450A0A&animation=fadeIn&height=90&width=300%&section=footer&fontSize=70&fontColor=FFFFFF&reversal=true" />
